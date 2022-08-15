@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c6100096c4b3954997635b33d0624fe, type: 3}
+  m_Name: QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: 'Which of the following describe the idiom for bad apple? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: ceb67295616188549a70255ad0b1481f, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - troublemaker, criminal
+    - an important and influential person
+    - a very lazy person
+    - "pretending to dislike something that you can\u2019t have"
+    correctAns: troublemaker, criminal
+  - questionInfo: 'Which of the following describe the idiom for eleventh hour? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: dcd3e43b3d776d942a5e29c9963cadc4, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - when something happens at the very last minute
+    - open 24 hours a day
+    - a very long period of time
+    - time passes very quickly
+    correctAns: when something happens at the very last minute
+  - questionInfo: 'Which of the following describe the idiom for top banana? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 3cdf7f0b19029d94bbf26bfe89653787, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - leader or boss
+    - to write or have something written down on paper for confirmation
+    - to describe something that is badly bruised
+    - somewhere very dark, when it is hard to see anything
+    correctAns: leader or boss
+  - questionInfo: 'Which of the following describe the idiom for bookworm? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 66c99b053b28b50459de091b125d88a4, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - to describe someone who reads a lot
+    - to let others see your uniqueness
+    - to understand something
+    - to do everything you can to achieve your goal
+    correctAns: to describe someone who reads a lot
+  - questionInfo: 'Which of the following describe the idiom for brainstrom? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 7b17ac29d56bf6c44905c7baa466a601, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - to try to develop an idea or think of new ideas
+    - to start performing better
+    - when something rarely ever happens
+    - to end or fail suddenly and spectacularly
+    correctAns: to try to develop an idea or think of new ideas
+  - questionInfo: 'Which of the following describe the idiom for piece of cake? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: b664f67b9d36f6a47b3ff6143f4ddc4f, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - when something is extremely easy to do
+    - something that is tacky, silly, inauthentic or cheap
+    - "when somebody tells a secret that they shouldn\u2019t have"
+    - when somebody is skeptical about something or someone
+    correctAns: when something is extremely easy to do
+  - questionInfo: 'Which of the following describe the idiom for bite off more than
+      you can chew? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: b474634ab931def4a9aa530392076aff, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - to take on something that is too much for you to handle
+    - 'to believe that someone has the same bad qualities as others in a group  '
+    - to be confrontational and strongly defend yourself at the beginning of a debate
+    - to speak directly
+    correctAns: to take on something that is too much for you to handle
+  - questionInfo: 'Which of the following describe the idiom for tough cookie? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 57bf18402de5f9d4188f3eff3d26681a, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - a very determined person and difficult to deal with
+    - an important and influential person
+    - a troublemaker or a criminal
+    - "pretending to dislike something that you can\u2019t have"
+    correctAns: a very determined person and difficult to deal with
+  - questionInfo: 'Which of the following describe the idiom for egghead? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: e0d25d48441bc4f4088559f82a208a65, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - a very intelligent person
+    - awaiting an explanation
+    - paying no attention to something
+    - a person with a lot of experience in something
+    correctAns: a very intelligent person
+  - questionInfo: 'Which of the following describe the idiom for sit on the fence? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 8b0fca0948c998b498e1d620892e0bdd, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - to stay neutral and not take sides
+    - to continue to stay awake when feeling exhausted
+    - to snitch on someone
+    - " to call for help when you don\u2019t need it"
+    correctAns: to stay neutral and not take sides

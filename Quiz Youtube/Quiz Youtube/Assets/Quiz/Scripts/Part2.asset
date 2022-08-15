@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c6100096c4b3954997635b33d0624fe, type: 3}
+  m_Name: Part2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: 'Which of the following describe the idiom for once in a blue moon? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: a25e8ca7bc0f4c64d9a1b25b8c21372e, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - something that happens very rarely
+    - to express total lack of interest in something
+    - to be pleased and happy
+    - an easy decision
+    correctAns: something that happens very rarely
+  - questionInfo: 'Which of the following describe the idiom for hit the nail on
+      the head? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: c74780efd88a1c745a8a9d4368a0683e, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - something someone says and is precisely correct
+    - to exclude someone socially
+    - to snitch on someone
+    - successful or profitable
+    correctAns: something someone says and is precisely correct
+  - questionInfo: 'Which of the following describe the idiom for when pigs fly? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 0cde44efc6a5e564e9b802bd78616501, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - something that will never happen
+    - to continue to stay awake when feeling exhausted
+    - very near
+    - to stay neutral and not take sides
+    correctAns: something that will never happen
+  - questionInfo: 'Which of the following describe the idiom for couch potato? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 4d2f6a922ff2b944abe63ff90dd7e6e4, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - a very lazy person who watches too much TV
+    - to become very angry, scared or excited
+    - when something is extremely easy to do
+    - when something is very expensive
+    correctAns: a very lazy person who watches too much TV
+  - questionInfo: 'Which of the following describe the idiom for pull a rabbit out
+      of a hat? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: f6c79cbe35daa1d499f60187980569fe, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - ' to do something unexpected that may have seemed impossible'
+    - to do something the quick way
+    - to appear out of nowhere without any warning
+    - when some unexpected bad news is received
+    correctAns: ' to do something unexpected that may have seemed impossible'
+  - questionInfo: 'Which of the following describe the idiom for the ship has sailed? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: bce7fe45f14481d408dd4d01156fc73b, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - a particular opportunity has passed by
+    - to be of superior quality or distinction
+    - when someone talks very much and very rapidly
+    - " to call for help when you don\u2019t need it"
+    correctAns: a particular opportunity has passed by
+  - questionInfo: 'Which of the following describe the idiom for time flies? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 21c63ba52a129e34ca621a92691c3235, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - time passes very quickly
+    - open 24 hours a day
+    - something happens ahead of time
+    - a very long period of time
+    correctAns: time passes very quickly
+  - questionInfo: 'Which of the following describe the idiom for time is money? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 6afb76a00a2ac4c4eb9ff465b1153464, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - time is a valuable, and should be put to good use
+    - waiting for further developments
+    - the right moment to do something
+    - when someone enjoys themselves very much
+    correctAns: time is a valuable, and should be put to good use
+  - questionInfo: 'Which of the following describe the idiom for wasting time? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: cf5e00ed970e663469b9bb4c1dc412d3, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - doing something that is pointless or useless
+    - something that will happen very soon
+    - something that happens very rarely
+    - something that takes place during a period of time between two events
+    correctAns: doing something that is pointless or useless
+  - questionInfo: 'Which of the following describe the idiom for a whale of a time? '
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 338aeba849a0acb4088a2bd02deb243b, type: 3}
+    qustionClip: {fileID: 0}
+    options:
+    - when someone have a great time
+    - something that happens over a very long period of time
+    - when something happens or develops gradually
+    - to do something that is difficult or to suffer hardship
+    correctAns: when someone have a great time
